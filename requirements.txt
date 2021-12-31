@@ -1,0 +1,3 @@
+pywin32~=303
+requests~=2.26.0
+virustotal-python~=0.1.3
